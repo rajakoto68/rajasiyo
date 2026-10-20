@@ -1,90 +1,59 @@
-<div align="center">
-
-<img src="./profil.svg" alt="M.Rajasiyo" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=HALO%2C+AKU+M.RAJASIYO+%F0%9F%91%8B;SISWA+SMK+SWASTA+MANDIRI;SUKA+NGODING+%26+BIKIN+WEBSITE;TERUS+BELAJAR%2C+TERUS+BERKEMBANG+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajakoto68&label=Views&color=8b5cf6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/rajakoto68?style=for-the-badge&logo=github&color=6366f1)
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=100000&color=A78BFA&width=500&lines=ABOUT+ME" alt="About Me" />
-
-```js
-const aku = {
-  nama: "M.Rajasiyo",
-  status: "Siswa SMK Swasta Mandiri",
-  suka: ["Ngoding 💻", "Bikin website 🌐", "Desain tampilan 🎨"],
-  motto: "Hujan, angin, tetap belajar. Terus lanjut sampai bisa.",
-};
-```
-
-- 🎓 Siswa **SMK Swasta Mandiri** yang lagi semangat belajar web development
-- 🌐 Suka bikin website yang **modern, rapi, dan responsif** di HP maupun desktop
-- 🎨 Suka desain bersih dengan animasi halus
-- 📈 Belajar sedikit demi sedikit tiap hari, yang penting konsisten
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=100000&color=F472B6&width=500&lines=TECH+STACK" alt="Tech Stack" />
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=100000&color=A78BFA&width=500&lines=MY+PROJECT" alt="Project" />
-
-<div align="center">
-
-<a href="https://github.com/rajakoto68/myprofil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajakoto68&repo=myprofil&theme=radical&hide_border=true" /></a>
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=100000&color=22D3EE&width=500&lines=GITHUB+STATS" alt="Stats" />
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajakoto68&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakoto68&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajakoto68&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakoto68&bg_color=0f0c29&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=100000&color=A78BFA&width=500&lines=CONTACT+ME" alt="Contact" />
-
-<div align="center">
-
-<a href="https://wa.me/6288708759325"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.instagram.com/jafrikoto_"><img src="https://img.shields.io/badge/Instagram-jafrikoto__-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.instagram.com/jasa_joki_website_profesional"><img src="https://img.shields.io/badge/Instagram-Jasa%20Website-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@jaxfri"><img src="https://img.shields.io/badge/TikTok-@jaxfri-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-
-<br/><br/>
-
-**✨ Terima kasih sudah mampir!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=110&section=footer" width="100%" />
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210">
+  <defs>
+    <linearGradient id="bl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f6bef"/><stop offset="1" stop-color="#0a54cc"/></linearGradient>
+    <clipPath id="rc"><rect x="0" y="0" width="118" height="210"/></clipPath>
+  </defs>
+  <style>
+    @keyframes tw{0%,100%{opacity:.15;transform:scale(.6)}50%{opacity:1;transform:scale(1)}}
+    @keyframes dr{from{transform:translateX(0)}to{transform:translateX(-48px)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    @keyframes st{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+    .s{transform-box:fill-box;transform-origin:center;animation:tw 1.6s ease-in-out infinite}
+    .rb{animation:dr .5s linear infinite}
+    .cat{animation:bob .5s ease-in-out infinite}
+    .sd{animation:st 14s linear infinite}
+    .r{fill:none;stroke-width:11}
+  </style>
+  <rect width="900" height="210" rx="4" fill="url(#bl)"/>
+  <g class="sd">
+    <g fill="#fff">
+      <path class="s" d="M260 40 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:.4s" d="M430 150 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:.8s" d="M600 60 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:1.1s" d="M760 160 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:.2s" d="M340 120 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+      <path class="s" style="animation-delay:.6s" d="M520 25 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+      <path class="s" style="animation-delay:1s" d="M690 110 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+      <path class="s" style="animation-delay:1.3s" d="M180 180 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+    </g>
+    <g transform="translate(900,0)" fill="#fff">
+      <path class="s" d="M260 40 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:.4s" d="M430 150 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:.8s" d="M600 60 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="s" style="animation-delay:1.1s" d="M760 160 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+    </g>
+  </g>
+  <g clip-path="url(#rc)">
+    <g class="rb">
+      <path class="r" stroke="#ff2a2a" d="M-48 74 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+      <path class="r" stroke="#ff9a1f" d="M-48 85 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+      <path class="r" stroke="#ffe81f" d="M-48 96 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+      <path class="r" stroke="#3dff3d" d="M-48 107 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+      <path class="r" stroke="#1fa2ff" d="M-48 118 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+      <path class="r" stroke="#7a3cff" d="M-48 129 q12 -9 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0"/>
+    </g>
+  </g>
+  <g class="cat">
+    <path d="M104 118 q-10 14 6 20" fill="none" stroke="#2b2f36" stroke-width="3" stroke-linecap="round"/>
+    <path d="M106 96 L110 70 L132 88 Z" fill="#d6d9de" stroke="#2b2f36" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M160 88 L182 70 L186 96 Z" fill="#d6d9de" stroke="#2b2f36" stroke-width="3" stroke-linejoin="round"/>
+    <ellipse cx="146" cy="108" rx="42" ry="32" fill="#d6d9de" stroke="#2b2f36" stroke-width="3"/>
+    <ellipse cx="128" cy="106" rx="5" ry="6" fill="#111827"/>
+    <ellipse cx="164" cy="106" rx="5" ry="6" fill="#111827"/>
+    <circle cx="126" cy="104" r="1.6" fill="#fff"/><circle cx="162" cy="104" r="1.6" fill="#fff"/>
+    <path d="M142 116 l4 4 4 -4z" fill="#f472b6"/>
+    <path d="M146 120 q-6 6 -11 2 M146 120 q6 6 11 2" fill="none" stroke="#2b2f36" stroke-width="2" stroke-linecap="round"/>
+    <path d="M112 112 h-14 M112 119 l-13 5 M180 112 h14 M180 119 l13 5" stroke="#2b2f36" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="120" cy="120" r="4" fill="#f9a8d4" opacity=".7"/><circle cx="172" cy="120" r="4" fill="#f9a8d4" opacity=".7"/>
+  </g>
+</svg>
