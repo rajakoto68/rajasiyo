@@ -3,7 +3,7 @@
 <img src="./assets/gym-storm.svg" alt="Code. Lift. No Excuses." width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=HALO%2C+AKU+RAJA+%F0%9F%91%8B;NGODING+PAGI%2C+NGEGYM+SORE+%F0%9F%8F%8B%EF%B8%8F;WEBSITE+UMKM+MODERN+%26+RESPONSIF;BUG+ITU+BEBAN%2C+ANGKAT+TERUS+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=HALO%2C+AKU+M.RAJA+SIYO+%F0%9F%91%8B;NGODING+PAGI%2C+NGEGYM+SORE+%F0%9F%8F%8B%EF%B8%8F;WEBSITE+UMKM+MODERN+%26+RESPONSIF;BUG+ITU+BEBAN%2C+ANGKAT+TERUS+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ```js
 const raja = {
-  nama: "M. Raja Siyo",
+  nama: "M.raja siyo",
   peran: "Web Developer & Freelancer",
   fokus: ["Website UMKM", "Landing Page", "Company Profile"],
   hobi: ["Ngoding 💻", "Ngegym 🏋️", "Bikin desain keren 🎨"],
