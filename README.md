@@ -87,3 +87,10 @@
       <line class="dr" x1="-22" y1="4" x2="-26" y2="16"/><line class="dr" style="animation-delay:-.35s" x1="0" y1="4" x2="-4" y2="16"/><line class="dr" style="animation-delay:-.7s" x1="22" y1="4" x2="18" y2="16"/>
       <text class="st" y="62" font-size="26">RAIN</text>
     </g></g>
+    <g transform="translate(787,115)"><g class="wob" style="animation-delay:-1.8s">
+      <circle r="96" fill="#fff"/><circle r="88" fill="url(#sd)"/>
+      <polygon class="bz" points="8,-62 -30,6 -6,6 -18,46 32,-18 6,-18" fill="#facc15" filter="url(#sg)"/>
+      <text class="st" y="68" font-size="22">BEAST MODE</text>
+    </g></g>
+  </g>
+</svg>
